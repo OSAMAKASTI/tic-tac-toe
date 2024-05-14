@@ -1,0 +1,11 @@
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\bin\Debug\Tic Tac.exe.config
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\bin\Debug\Tic Tac.exe
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\bin\Debug\Tic Tac.pdb
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic_Tac.Form1.resources
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic_Tac.Properties.Resources.resources
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic Tac.csproj.GenerateResource.cache
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic Tac.exe
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic Tac.pdb
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic_Tac.Form2.resources
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic Tac.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\Tic Tac\Tic Tac\obj\Debug\Tic Tac.csproj.CoreCompileInputs.cache
